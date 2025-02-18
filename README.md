@@ -26,16 +26,12 @@ Follow these simple steps to get started:
    ```bash
    cd spotify-voice-controller
    ```
-3. **Install the required dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## 🎤 Usage
 
 1. **Run the application**:
    ```bash
-   python app2.py
+   python app.py
    ```
 2. **Initialization**: The program will connect to Spotify and prepare for voice commands.
 3. **Speak your commands clearly**. Available commands include:
