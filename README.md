@@ -75,5 +75,3 @@ The Spotify Voice Controller has been tested manually to ensure functionality. F
 - To everyone who provides feedback and contributes to making this project better—thank you!
 
 ---
-
-Feel free to adjust any sections to better fit your voice or add any additional details that you think would enhance the project’s appeal!
