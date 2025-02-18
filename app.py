@@ -62,8 +62,8 @@ class EnhancedSpeechRecognition:
 class SpotifyVoiceController:
     def __init__(self):
         # Spotify API credentials
-        self.SPOTIFY_CLIENT_ID = "c011b33929ce4a5384c67e0548f2e4db"
-        self.SPOTIFY_CLIENT_SECRET = "7c39b9f646064d94985132a5a5c1a20c"
+        self.SPOTIFY_CLIENT_ID = "your client id of spotify"
+        self.SPOTIFY_CLIENT_SECRET = "your secret id spotify"
         self.REDIRECT_URI = "http://localhost:8888/callback"
         self.scope = "user-read-playback-state user-modify-playback-state user-read-currently-playing"
         
